@@ -12,3 +12,4 @@
 5.两个栈模拟一个队列？
 
 6.讲一下alphaTest 和 alpha blend,各自的作用和区别，哪个效率高？
+http://blog.csdn.net/candycat1992/article/details/41599167
